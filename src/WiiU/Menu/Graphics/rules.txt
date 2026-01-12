@@ -99,6 +99,12 @@ $padHeight = 540
 
 [Preset]
 category = Gamepad Resolution
+name = 1280x720
+$padWidth = 1280
+$padHeight = 720
+
+[Preset]
+category = Gamepad Resolution
 name = 1600x900
 $padWidth = 1600
 $padHeight = 900
